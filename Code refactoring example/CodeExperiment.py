@@ -5,7 +5,7 @@ from sklearn.model_selection import train_test_split
 import joblib
 import pandas as pd
 
-sample_data = pd.read_csv("C:\\Users\\amanr\\OneDrive\\Desktop\\diabetes.csv")
+sample_data = pd.read_csv("C:\\Users\\udathateja\\OneDrive\\Desktop\\diabetes.csv")
 
 df = sample_data
 
